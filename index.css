@@ -1,0 +1,372 @@
+.slide-169-1-child {
+    position: absolute;
+    top: 32px;
+    left: 910px;
+    background-color: var(--color-gray-100);
+    width: 274px;
+    height: 44px;
+}
+.slide-169-1-item {
+    position: absolute;
+    top: 34px;
+    left: 798px;
+    background-color: var(--color-gray-100);
+    width: 89px;
+    height: 41px;
+}
+.slide-169-1-inner {
+    position: absolute;
+    top: 34px;
+    left: 588px;
+    background-color: var(--color-gray-100);
+    width: 199px;
+    height: 42px;
+}
+.rectangle-div {
+    position: absolute;
+    top: 32px;
+    left: 485px;
+    background-color: var(--color-gray-100);
+    width: 92px;
+    height: 43px;
+}
+.slide-169-1-child1 {
+    position: absolute;
+    top: 32px;
+    left: 347px;
+    background-color: var(--color-gray-100);
+    width: 126px;
+    height: 44px;
+}
+.slide-169-1-child2 {
+    position: absolute;
+    top: -2px;
+    left: -28px;
+    background-color: var(--color-gray-100);
+    width: 1948px;
+    height: 113px;
+}
+.tv-shows {
+    position: absolute;
+    top: 37px;
+    left: 349px;
+    display: inline-block;
+    width: 124px;
+    height: 39px;
+}
+.movies {
+    position: absolute;
+    top: 37px;
+    left: 486px;
+    display: inline-block;
+    width: 104px;
+    height: 39px;
+}
+.new-popular {
+    position: absolute;
+    top: 37px;
+    left: 590px;
+    display: inline-block;
+    width: 225px;
+    height: 39px;
+}
+.browse-by-languages {
+    position: absolute;
+    top: 37px;
+    left: 905px;
+    display: inline-block;
+    width: 310px;
+    height: 39px;
+}
+.my-list {
+    position: absolute;
+    top: 37px;
+    left: 798px;
+    display: inline-block;
+    width: 107px;
+    height: 39px;
+}
+.slide-169-1-child3 {
+    position: absolute;
+    top: 29px;
+    left: 246px;
+    background-color: var(--color-gray-100);
+    width: 91px;
+    height: 47px;
+}
+.home {
+    position: absolute;
+    top: 36px;
+    left: 254px;
+    display: inline-block;
+    width: 83px;
+    height: 39px;
+}
+.n {
+    position: absolute;
+    top: 10.73px;
+    left: 0px;
+    transform:  rotate(-10.33deg);
+    transform-origin: 0 0;
+}
+.e {
+    position: absolute;
+    top: 4.51px;
+    left: 36.21px;
+    transform:  rotate(-6.35deg);
+    transform-origin: 0 0;
+}
+.t {
+    position: absolute;
+    top: 1.19px;
+    left: 68.55px;
+    transform:  rotate(-2.63deg);
+    transform-origin: 0 0;
+}
+.f {
+    position: absolute;
+    top: 0px;
+    left: 100.91px;
+    transform:  rotate(0.96deg);
+    transform-origin: 0 0;
+}
+.l {
+    position: absolute;
+    top: 0.76px;
+    left: 131.16px;
+    transform:  rotate(4.43deg);
+    transform-origin: 0 0;
+}
+.i {
+    position: absolute;
+    top: 3.36px;
+    left: 160.76px;
+    transform:  rotate(7.31deg);
+    transform-origin: 0 0;
+}
+.x {
+    position: absolute;
+    top: 6.06px;
+    left: 181.54px;
+    transform:  rotate(10.45deg);
+    transform-origin: 0 0;
+}
+.group {
+    position: absolute;
+    top: 13px;
+    left: 20px;
+    width: 207.11px;
+    height: 86.5px;
+    font-size: var(--font-size-45xl);
+    color: var(--color-red);
+    font-family: var(--font-bebas-neue);
+}
+.group-icon {
+    position: absolute;
+    top: 22px;
+    left: 1738.93px;
+    width: 63.76px;
+    height: 64.82px;
+}
+.slide-169-1-child4 {
+    position: absolute;
+    top: 22px;
+    left: 1826px;
+    border-radius: var(--br-8xs);
+    background: linear-gradient(180deg, #2958ff, #90a7fb);
+    width: 65px;
+    height: 65px;
+}
+.slide-169-1-child5 {
+    position: absolute;
+    top: 110px;
+    left: 0px;
+    background-color: var(--color-gainsboro);
+    width: 1928px;
+    height: 643px;
+}
+.popular-on-netflix {
+    position: absolute;
+    top: 762px;
+    left: 18px;
+    display: inline-block;
+    color: var(--color-gainsboro);
+    width: 336px;
+    height: 42px;
+}
+.slide-169-1-child6 {
+    position: absolute;
+    top: 816px;
+    left: 23px;
+    background-color: var(--color-gainsboro);
+    width: 294px;
+    height: 188px;
+}
+.slide-169-1-child7 {
+    position: absolute;
+    top: 816px;
+    left: 395px;
+    background-color: var(--color-gainsboro);
+    width: 294px;
+    height: 188px;
+}
+.slide-169-1-child8 {
+    position: absolute;
+    top: 816px;
+    left: 760px;
+    background-color: var(--color-gainsboro);
+    width: 294px;
+    height: 188px;
+}
+.slide-169-1-child9 {
+    position: absolute;
+    top: 816px;
+    left: 1125px;
+    background-color: var(--color-gainsboro);
+    width: 294px;
+    height: 188px;
+}
+.slide-169-1-child10 {
+    position: absolute;
+    top: 816px;
+    left: 1490px;
+    background-color: var(--color-gainsboro);
+    width: 294px;
+    height: 188px;
+}
+.n1 {
+    position: absolute;
+    top: 162px;
+    left: 28px;
+    font-size: var(--font-size-45xl);
+    display: inline-block;
+    color: var(--color-red);
+    width: 84px;
+    height: 58px;
+}
+.series {
+    position: absolute;
+    top: 183px;
+    left: 72px;
+    font-size: var(--font-size-21xl);
+    display: inline-block;
+    font-family: var(--font-fira-mono);
+    color: #dd943e;
+    width: 149px;
+    height: 37px;
+}
+.slide-169-1-child11 {
+    position: absolute;
+    top: 379px;
+    left: 42px;
+    background-color: var(--color-gainsboro);
+    width: 80px;
+    height: 71px;
+}
+.in-tv-shows {
+    position: absolute;
+    top: 374px;
+    left: 29px;
+    font-size: var(--font-size-21xl);
+    display: inline-block;
+    width: 534px;
+    height: 40px;
+}
+.lorem-ipsum-dolor {
+    position: absolute;
+    top: 427px;
+    left: 28px;
+    font-size: var(--font-size-5xl);
+    display: inline-block;
+    width: 683px;
+    height: 132px;
+}
+.slide-169-1-child12 {
+    position: absolute;
+    top: 566px;
+    left: 29px;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-white);
+    width: 225px;
+    height: 54px;
+}
+.polygon-icon {
+    position: absolute;
+    top: 577.21px;
+    left: 42.82px;
+    border-radius: 3px;
+    width: 29.26px;
+    height: 32.11px;
+}
+.play {
+    position: absolute;
+    top: 570px;
+    left: 82px;
+    font-size: var(--font-size-21xl);
+    display: inline-block;
+    color: var(--color-black);
+    width: 71px;
+    height: 36px;
+}
+.slide-169-1-child13 {
+    position: absolute;
+    top: 566px;
+    left: 282px;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-white);
+    width: 225px;
+    height: 54px;
+}
+.more-info {
+    position: absolute;
+    top: 575px;
+    left: 335px;
+    display: inline-block;
+    color: var(--color-black);
+    width: 133px;
+    height: 36px;
+}
+.ellipse-div {
+    position: absolute;
+    top: 576px;
+    left: 296px;
+    border-radius: 50%;
+    background-color: var(--color-gainsboro);
+    border: 2px solid var(--color-black);
+    box-sizing: border-box;
+    width: 35px;
+    height: 35px;
+}
+.i1 {
+    position: absolute;
+    top: 580px;
+    left: 311px;
+    font-size: var(--font-size-5xl);
+    display: inline-block;
+    color: var(--color-black);
+    width: 18px;
+    height: 18px;
+}
+.lorem-ipsum {
+    position: absolute;
+    top: 234px;
+    left: 29px;
+    font-size: 96px;
+    font-family: var(--font-almendra-sc);
+    color: var(--color-black);
+    display: inline-block;
+    width: 601px;
+    height: 121px;
+}
+.slide-169-1 {
+    position: relative;
+    background-color: #010000;
+    width: 100%;
+    height: 1080px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-13xl);
+    color: var(--color-white);
+    font-family: var(--font-alegreya-sans);
+}
+
